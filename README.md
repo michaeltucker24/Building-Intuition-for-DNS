@@ -1,4 +1,4 @@
-# Lab-6: Building Intuition for DNS
+# Building Intuition for DNS
 
 In this home lab, I will explore DNS by configuring and flushing the DNS for the Client-1 VM environment set up in previous labs. I will also document my findings and observations through the screenshots.
 
